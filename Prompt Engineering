@@ -1,1 +1,12 @@
-Prompt Engineering
+** Amazon Web Services (AWS) **
+  Prompt engineering is the "process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs" by choosing "the most appropriate formats, phrases, words, and symbols".
+Google Cloud:
+  It is described as "the art and science of designing and optimizing prompts to guide AI models, particularly LLMs, towards generating the desired responses".
+OpenAI:
+  They define it simply as "the process of writing effective instructions for a model, such that it consistently generates content that meets your requirements".
+IBM:
+  Prompt engineering is "the practice of crafting precise prompts to help generative artificial intelligence (AI) models correctly respond to questions and perform a wide range of tasks".
+Wikipedia:
+  It is the "process of structuring or crafting an instruction in order to produce better outputs from a generative artificial intelligence (AI) model". 
+
+These definitions highlight that prompt engineering is a blend of ** "art and science" ** that requires linguistic skill, creativity, and systematic iteration to effectively bridge human intent with AI capabilities
