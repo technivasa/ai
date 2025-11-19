@@ -2,7 +2,6 @@
 All Information related to Artificial Intelligence
 
 Covers topics like 
- - python
  - ai
  - machine-learning
  - deep-learning
@@ -11,3 +10,4 @@ Covers topics like
  - agentic ai
  - prompt-engineering
  - context-engineering
+ - python
